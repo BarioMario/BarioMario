@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey, it's a me.
+I'm currently learning **rust**.
 <!--
 **BarioMario/BarioMario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
